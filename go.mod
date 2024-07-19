@@ -1,5 +1,5 @@
 module github.com/OpenDataTelemetry/device-gateway-ws
 
-go 1.20
+go 1.18
 
 require github.com/gorilla/websocket v1.5.3 // indirect
