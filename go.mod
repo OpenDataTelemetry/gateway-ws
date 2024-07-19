@@ -1,4 +1,4 @@
-module github.com/OpenDataTelemetry/device-gateway-ws
+module github.com/OpenDataTelemetry/gateway-ws
 
 go 1.18
 
